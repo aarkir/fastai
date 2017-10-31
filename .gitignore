@@ -98,4 +98,8 @@ ENV/
 /site
 
 # mypy
-.mypy_cache/
+.smypy_cache/
+
+
+data/redux/results
+data/redux/sample/results
